@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  justify-content: end;
+  background-color: red;
+  width: 100%;
+
+}
+
+.logo_intra {
+  position: absolute;
+  left: 1rem;
+
+  /* justify-self: flex-start; */
+}
